@@ -22,5 +22,5 @@ if number1 < number2:
 elif number2 < number1:
     print("меньшее второе число")
 else:
-    print("числа равны")
+    print("числа равны"
 
