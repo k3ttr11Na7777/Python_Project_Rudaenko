@@ -11,7 +11,7 @@ while type(n) != int:
         n = input("Введите число: ")
 
 while n > 1 and n % 3 == 0:
-    n //= 3
+    n //= 3 #jjj
 
 if n == 1:
     print("TRUE")
